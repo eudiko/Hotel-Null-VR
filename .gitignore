@@ -97,6 +97,9 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+<<<<<<< HEAD
 
 # Ignore the Audio folder and its contents
 Assets/Audio/
+=======
+>>>>>>> b1fbae1075bf4f26035ffbc52fc6598b840d1572
